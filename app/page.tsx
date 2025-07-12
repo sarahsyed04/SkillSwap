@@ -223,7 +223,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <p className="text-gray-400">
-              © 2024 SkillSwap. Built for hackathons and skill sharing communities.
+              © 2025 SkillSwap.
             </p>
           </div>
         </div>
